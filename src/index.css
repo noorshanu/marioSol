@@ -68,7 +68,11 @@
   align-items: flex-center;
   justify-content: space-between;
 }
-
+.pattern--hashes {
+  background-image: repeating-linear-gradient(-45deg, #302f2f, #302f2f 6px, #2a2929 0, #2a2929 12px);
+  box-shadow: 0 0 0 2px transparent;
+  transition: box-shadow .1s linear;
+}
 .floating {
   animation-name: floating;
   animation-duration: 2s;
