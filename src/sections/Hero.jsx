@@ -15,12 +15,8 @@ function Hero() {
             <div>
               <div className=" max-w-4xl mx-auto bg-[#ffd100] border-4 border-[#e70112] py-4 px-2 rounded-2xl mt-6 ">
                 <h2 className=" text-center  my-2 text-2xl text-black">
-                  MinionSol, where the memes are as plentiful as bananas in a
-                  minion's lair! We're not just any old crypto meme coin – we're
-                  your loyal companions on the journey to meme greatness. With
-                  hearts as big as Gru's ambitions and a community as tight-knit
-                  as a group hug from a bunch of minions, you'll feel right at
-                  home with us.
+                Welcome to the Mushroom Kingdom of crypto, where fun meets finance, and memes rule supreme! Say hello to Mariosol, your cheerful companion on the Solana blockchain. <br />
+                Mariosol isn't just any crypto meme; it's your trusty sidekick in the wild world of digital currencies. Inspired by the bright nature, energy, and cheerful memes of everyone's favorite.
                 </h2>
               </div>
 

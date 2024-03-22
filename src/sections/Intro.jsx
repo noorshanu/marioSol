@@ -16,22 +16,18 @@ const Intro = () => {
             />
           </div>
           <div className=" max-w-xl">
-          
-
             <p className="font-bold font-groot-two  text-xl sm:text-6xl  text-[#0058bc] py-2">
-              Welcome to the wild world of MinionSol!
+              Welcome to the wild world of Mariosol!
             </p>
             <h1 className=" text-xl sm:text-2xl py-3    text-[#000] font-medium">
-              MinionSol, where the memes are as plentiful as bananas in a
-              minion's lair! We're not just any old crypto meme coin – we're
-              your loyal companions on the journey to meme greatness.
+              Mariosol brings joy and laughter to the decentralized universe.
+              Just like Mariosol himself, we're here to rescue you from the
+              mundane and take you on an adventure through the meme-filled
+              landscape of crypto. Join us as we ride warp pipes to the moon and
+              beyond!
             </h1>
 
-            <h1 className=" text-xl sm:text-2xl py-3  text-[#000] font-medium">
-              With hearts as big as Gru's ambitions and a community as
-              tight-knit as a group hug from a bunch of minions, you'll feel
-              right at home with us.
-            </h1>
+        
           </div>
         </div>
       </div>
