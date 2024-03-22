@@ -24,7 +24,7 @@ function RoadMap() {
               <img src="images/nft.jpeg" alt="" className=' w-[300px] mx-auto rounded-xl mb-2' />
             </div>
             <div>
-            <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Phase 1</h1>
+            <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Nft</h1>
              
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7 text-white">•  Build community foundation.</p>
@@ -39,7 +39,7 @@ function RoadMap() {
               <img src="images/stake.jpeg" alt="" className=' w-[300px] mx-auto rounded-xl mb-2' />
             </div>
           <div>
-          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Phase 2</h1>
+          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Stake</h1>
            
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7 text-white ">• Grow community</p>
@@ -54,7 +54,7 @@ function RoadMap() {
               <img src="images/meme.jpeg" alt="" className=' w-[300px] mx-auto rounded-xl mb-2' />
             </div>
           <div>
-          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Phase 3</h1>
+          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">meme</h1>
              
             </div>
             <p className=" text-lg font-popins font-normal lh-1_7 text-white">•  Open Pet Store.</p>
