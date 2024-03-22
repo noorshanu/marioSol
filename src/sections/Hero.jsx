@@ -35,7 +35,7 @@ function Hero() {
                   Telegram
                 </a>
                 <a
-                  href="#"
+                  href="https://twitter.com/MarioSol547668"
                   target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] py-1 px-4 rounded-2xl text-[#000000]"
                 >
