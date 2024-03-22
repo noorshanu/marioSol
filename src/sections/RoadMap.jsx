@@ -11,7 +11,7 @@ function RoadMap() {
 
       <div className="container-wrapper mb-14">
     
-        <h2 className="font-groot-two text-5xl my-2 text-[#0058bc] text-center font-bold relative z-30 my-4">
+        <h2 className="font-groot-two text-2xl sm:text-5xl  text-[#0058bc] text-center font-bold relative z-30 my-4">
          MarioSol Features
         </h2>
      
