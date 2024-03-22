@@ -24,12 +24,11 @@ function RoadMap() {
               <img src="images/nft.jpeg" alt="" className=' w-[300px] mx-auto rounded-xl mb-2' />
             </div>
             <div>
-            <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Nft</h1>
+            <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Meme Creation</h1>
              
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7 text-white">•  Build community foundation.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">• Do initial market research.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">•  Launch SylvesterSol.</p>
+            <p className=" text-lg font-popins font-normal lh-1_7 text-white"> Dive into our meme generator and craft hilarious memes inspired by Mariosol's adventures. The only limit is your imagination!</p>
+  
           
           
           </div>
@@ -39,13 +38,11 @@ function RoadMap() {
               <img src="images/stake.jpeg" alt="" className=' w-[300px] mx-auto rounded-xl mb-2' />
             </div>
           <div>
-          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Stake</h1>
+          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">250 NFTS</h1>
            
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7 text-white ">• Grow community</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">• Do partnerships.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">• CMC & CG listing.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">• Introduce Staking. .</p>
+            <p className=" text-lg font-popins font-normal lh-1_7 text-white "> Get your hands on exclusive NFTs featuring iconic moments from Mariosol's journey. Limited edition collectibles for true fans!</p>
+      
        
 
           </div>
