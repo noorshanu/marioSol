@@ -51,12 +51,11 @@ function RoadMap() {
               <img src="images/meme.jpeg" alt="" className=' w-[300px] mx-auto rounded-xl mb-2' />
             </div>
           <div>
-          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">meme</h1>
+          <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Staking</h1>
              
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7 text-white">•  Open Pet Store.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">• List on Tier 1 Exchange.</p>
-            <p  className=" text-lg font-popins font-normal lh-1_7 text-white">• Launch SylvesterSol Game.</p>
+            <p className=" text-lg font-popins font-normal lh-1_7 text-white">Stake your Mariosol tokens and earn rewards while you HODL. Support the Mariosol ecosystem and grow your crypto stash.</p>
+ 
           
 
           </div>
