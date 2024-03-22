@@ -28,14 +28,14 @@ function Hero() {
                   DexTools
                 </a>
                 <a
-                  href="https://t.me/smurfsol"
+                  href="https://t.me/mariosoll"
                   target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] text-[#000000] py-1 px-4 rounded-2xl"
                 >
                   Telegram
                 </a>
                 <a
-                  href="https://t.me/smurfsol"
+                  href="#"
                   target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] py-1 px-4 rounded-2xl text-[#000000]"
                 >
