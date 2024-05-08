@@ -8,14 +8,14 @@ function Navbar() {
         <div className=" flex items-center justify-between gap-2">
         <div className=" flex items-center">
         <img src="/images/logo.png" className="max-w-[5rem] w-full " alt="" />
-        <p className=" text-2xl font-groot-two mt-2 text-white">MarioSol</p>
+        <p className=" text-2xl font-groot-two mt-2 text-white">MarioWif</p>
         </div>
 
         <div>
         <div className=" flex justify-center gap-4 items-center py-4">
          
           <a
-            href="https://t.me/mariosoll"
+            href="https://t.me/MarioWifl"
             target="_blank"
             className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] text-[#0058bc] py-1 px-4 rounded-2xl"
           >
