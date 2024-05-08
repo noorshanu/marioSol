@@ -20,11 +20,11 @@ function AppLayout() {
 
         <div className=" py-4 bg-[#e70110c0]">
       <a
-                href="https://solscan.io/token/3wVpFLdvcZe8z6GtAQfNUxdrFcLcLUBF18HGp8pKW5qV"
+                href="https://solscan.io/token/76xc7K5hbcnYVyQgPDNBwmLfTyKfRtdNG5rqihhejtDp"
                 target="_blank"
                 className=" flex justify-center font-groot-two text-xs sm:text-xl text-center my-3 text-white "
               >
-                CONTRACT: 3wVpFLdvcZe8z6GtAQfNUxdrFcLcLUBF18HGp8pKW5qV
+                CONTRACT: 76xc7K5hbcnYVyQgPDNBwmLfTyKfRtdNG5rqihhejtDp
               </a>
       </div>
       </main>
