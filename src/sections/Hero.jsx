@@ -22,20 +22,20 @@ function Hero() {
 
               <div className=" flex justify-center gap-4 items-center py-4">
                 <a
-                  href="https://www.dextools.io/app/en/solana/pair-explorer/7UiBdijHGJBHukxwwfSjgCRRTMD6BPuQE5oAoVvMnR1q?t=1711104595113" target="_blank"
+                  href="" target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#fffffe] border-2 border-[#000000] py-1 px-4 rounded-2xl text-black"
                 >
                   DexTools
                 </a>
                 <a
-                  href="https://t.me/MarioWifl"
+                  href="https://t.me/mariowif"
                   target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] text-[#000000] py-1 px-4 rounded-2xl"
                 >
                   Telegram
                 </a>
                 <a
-                  href="https://twitter.com/MarioWif547668"
+                  href="https://twitter.com/Mariowif1"
                   target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] py-1 px-4 rounded-2xl text-[#000000]"
                 >

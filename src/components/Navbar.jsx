@@ -15,7 +15,7 @@ function Navbar() {
         <div className=" flex justify-center gap-4 items-center py-4">
          
           <a
-            href="https://t.me/MarioWifl"
+            href="https://t.me/mariowif"
             target="_blank"
             className="font-groot-two text-xl uppercase  bg-[#ffffff] border-2 border-[#000000] text-[#0058bc] py-1 px-4 rounded-2xl"
           >
