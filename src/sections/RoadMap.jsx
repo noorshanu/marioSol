@@ -12,7 +12,7 @@ function RoadMap() {
       <div className="container-wrapper mb-14">
     
         <h2 className="font-groot-two text-2xl sm:text-5xl  text-[#0058bc] text-center font-bold relative z-30 my-4">
-         MarioSol Features
+         MarioWif Features
         </h2>
      
 
@@ -27,7 +27,7 @@ function RoadMap() {
             <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Meme Creation</h1>
              
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7 text-white"> Dive into our meme generator and craft hilarious memes inspired by Mariosol's adventures. The only limit is your imagination!</p>
+            <p className=" text-lg font-popins font-normal lh-1_7 text-white"> Dive into our meme generator and craft hilarious memes inspired by MarioWif's adventures. The only limit is your imagination!</p>
   
           
           
@@ -41,7 +41,7 @@ function RoadMap() {
           <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">250 NFTS</h1>
            
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7 text-white "> Get your hands on exclusive NFTs featuring iconic moments from Mariosol's journey. Limited edition collectibles for true fans!</p>
+            <p className=" text-lg font-popins font-normal lh-1_7 text-white "> Get your hands on exclusive NFTs featuring iconic moments from MarioWif's journey. Limited edition collectibles for true fans!</p>
       
        
 
@@ -54,7 +54,7 @@ function RoadMap() {
           <h1 className="font-groot-two font-bold  text-white text-center  text-xl mb-1">Staking</h1>
              
             </div>
-            <p className=" text-lg font-popins font-normal lh-1_7 text-white">Stake your Mariosol tokens and earn rewards while you HODL. Support the Mariosol ecosystem and grow your crypto stash.</p>
+            <p className=" text-lg font-popins font-normal lh-1_7 text-white">Stake your MarioWif tokens and earn rewards while you HODL. Support the MarioWif ecosystem and grow your crypto stash.</p>
  
           
 
