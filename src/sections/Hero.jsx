@@ -22,7 +22,7 @@ function Hero() {
 
               <div className=" flex justify-center gap-4 items-center py-4">
                 <a
-                  href="" target="_blank"
+                  href="https://www.dextools.io/app/en/solana/pair-explorer/24F7jmrsXjAdPVUQi3auwJeWDTo19HXgKLkyx2NUZkL2?t=1715183387073" target="_blank"
                   className="font-groot-two text-xl uppercase  bg-[#fffffe] border-2 border-[#000000] py-1 px-4 rounded-2xl text-black"
                 >
                   DexTools
